@@ -1,4 +1,3 @@
-<h1> Hello, Thanks for this Interview !!! </h1>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">Project Name</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -52,8 +51,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>This is a Ankit Bloging informational website.</p>
+        <h1>Hello, Thanks for this Interview !!!</h1>
+        <p>This is a Ankit Bloging Informational website.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -62,17 +61,17 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
+            <h2>Continuous Integration</h2>
             <p>Jenkins Server. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
+            <h2>Continuous Deployment</h2>
             <p>Tomcat_Server. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
+            <h2>Continuous Delivery</h2>
             <p>Kubernetes Cluster.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
