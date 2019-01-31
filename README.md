@@ -1,15 +1,11 @@
-This is a sample Web Application to use during Continuous Integration demos.
+A Sample Continuous Integration and Conditions Deployment Project
 
 #Build Instruction
 
 ```
-mvn3 clean package
+mvn clean package
 ```
 
 #Deploy instruction
 
-Deploy ```target/WebApp.war``` on Tomcat
- 
-#TODO
- 
-Add instruction to deploy to ElasticBeanstalk
+Deploy ```target/cloudtomar.war``` on Tomcat

@@ -1,3 +1,4 @@
+<h1> Hello, Thanks for this Interview !!! </h1>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Ankit Bloging Page</title>
 
 
     <!-- Custom styles for this template -->
@@ -52,7 +53,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>This is a Ankit Bloging informational website.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -62,17 +63,17 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>Jenkins Server. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>Tomcat_Server. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <p>Kubernetes Cluster.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
@@ -80,7 +81,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Tomar Bloging 2019</p>
     </footer>
 </div> <!-- /container -->
 
@@ -92,5 +93,7 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
 </body>
 </html>
+
